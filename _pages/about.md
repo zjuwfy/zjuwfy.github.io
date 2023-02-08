@@ -52,9 +52,9 @@ redirect_from:
       }
   
       .news {
-   
+      width:500px;
       height: 20px;
-       overflow-y: auto;
+      overflow-y: auto;
     }
 </style>
 <body align="justify">
