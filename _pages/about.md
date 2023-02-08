@@ -26,13 +26,13 @@ redirect_from:
   <body>
     <div class="slideshow-container">
       <div class="mySlides">
-        <img src="/image/image1.jpg" style="width:100%">
+        <img src="/images/image1.jpg" style="width:100%">
       </div>
       <div class="mySlides">
-        <img src="/image/image2.jpg" style="width:100%">
+        <img src="/images/image2.jpg" style="width:100%">
       </div>
       <div class="mySlides">
-        <img src="/image/image3.jpg" style="width:100%">
+        <img src="/images/image3.jpg" style="width:100%">
       </div>
     </div>
     <script>
