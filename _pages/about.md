@@ -10,6 +10,7 @@ redirect_from:
 
 <html>
   <head>
+    <link href="./mystyle.css" rel="stylesheet" type="text/css"/>
     <style>
       .slideshow-container {
         max-width: 1000px;
