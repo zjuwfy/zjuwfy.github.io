@@ -50,10 +50,10 @@ redirect_from:
   <body>
     <div class="slideshow-container">
       <div class="mySlides">
-        <img src="images/image-alignment-150*150.jpg" style="width:100%">
+        <img src="images\image1.jpg" style="width:100%">
       </div>
       <div class="mySlides">
-        <img src="images/image-alignment-300*200.jpg" style="width:100%">
+        <img src="images\image2.jpg" style="width:100%">
       </div>
       <div class="mySlides">
         <img src="images/image-alignment-580*300.jpg" style="width:100%">
