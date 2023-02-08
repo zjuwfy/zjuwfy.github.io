@@ -52,7 +52,7 @@ redirect_from:
       }
   
       .news {
-      width:500px;
+      width:800px;
       height: 100px;
       overflow-y: auto;
     }
@@ -67,7 +67,8 @@ redirect_from:
  <img src="/images/research4.jpg" />
 </div>
 <div>
-    <p> News about the laboratory</p>
+    <h1> News about the laboratory</h1>
+   <hr /> 
 <div class="news">
 
 <li>Welcome our new research assistant Zeyu Xi! -- 2022.06.13</li>
@@ -80,10 +81,12 @@ redirect_from:
 <li> globLoc paper is out at Nature Communications! Congratulations Wei Shi!--2022.06.06</li>
   </div>
    </div>   
-##What we do 
+<h1>What we do </h1>
+   <hr /> 
 <p>Seeing is believing! We firmly believe that resolution determines the depth of the research. We are interested to use super-resolution microscopy to show the wonders of the microscopic world. To achieve this, we collaborate heavily with biologists and develop a range of interdisciplinary technologies including new optics theories, advanced algorithms, smart hardware design and imaging strategies for better resolution, deeper depth, and faster speed. We embrace the open science and hope that our work will promote both the advancement of science and technology.</p>
 
-
+<h1>What we are </h1>
+     <hr /> 
   <div class="slideshow-container">
       <div class="mySlides">
         <img src="/images/image4.jpg" style="width:100%">
