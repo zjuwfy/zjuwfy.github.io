@@ -52,7 +52,7 @@ redirect_from:
       }
   
       .news {
-      width:1200px;
+      width:800px;
       height: 150px;
       overflow-y: auto;
     }
