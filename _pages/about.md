@@ -53,7 +53,7 @@ redirect_from:
   
       #news {
       
-      height: 100px;
+      height: 50px;
        overflow-y: scroll;
     }
 </style>
@@ -70,6 +70,10 @@ redirect_from:
     <p> News about the laboratory</p>
 <div class="news">
 
+<li>Welcome our new research assistant Zeyu Xi! -- 2022.06.13</li>
+<li>Welcome our new research assistant Jingwen Zhang!--2022.06.08</li>
+<li>DMO PSF paper is out at Optics Letters! Congratulations Shuang Fu!--2022.06.08</li>
+<li> globLoc paper is out at Nature Communications! Congratulations Wei Shi!--2022.06.06</li>
 <li>Welcome our new research assistant Zeyu Xi! -- 2022.06.13</li>
 <li>Welcome our new research assistant Jingwen Zhang!--2022.06.08</li>
 <li>DMO PSF paper is out at Optics Letters! Congratulations Shuang Fu!--2022.06.08</li>
