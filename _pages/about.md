@@ -52,8 +52,8 @@ redirect_from:
       }
   
       .news {
-      width:800px;
-      height: 100px;
+      width:1200px;
+      height: 150px;
       overflow-y: auto;
     }
 </style>
@@ -66,6 +66,7 @@ redirect_from:
  <img src="/images/research3.png" />
  <img src="/images/research4.jpg" />
 </div>
+  <br>
 <div>
     <h1> News about the laboratory</h1>
    <hr /> 
@@ -90,13 +91,13 @@ redirect_from:
      <hr /> 
   <div class="slideshow-container">
       <div class="mySlides">
-        <img src="/images/image4.jpg" style="width:100%">
+        <img src="/images/team1.jpg" style="width:100%">
       </div>
       <div class="mySlides">
-        <img src="/images/image5.jpg" style="width:100%">
+        <img src="/images/team2.jpg" style="width:100%">
       </div>
       <div class="mySlides">
-        <img src="/images/image6.jpg" style="width:100%">
+        <img src="/images/team3.jpg" style="width:100%">
       </div>
       <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
       <a class="next" onclick="plusSlides(1)">&#10095;</a>
