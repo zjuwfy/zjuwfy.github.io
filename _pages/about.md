@@ -51,7 +51,11 @@ redirect_from:
         background-color: rgba(0,0,0,0.8);
       }
   
-  
+      #news {
+      
+      height: 100px;
+       overflow-y: scroll;
+    }
 </style>
 <body align="justify">
 <div class="area_pics">
@@ -62,12 +66,9 @@ redirect_from:
  <img src="/images/research3.png" />
  <img src="/images/research4.jpg" />
 </div>
-  <div>
+<div>
     <p> News about the laboratory<pi>
-div{
-   overflow-y: scroll;
-   height: 200px;
-}
+<div class="news">
 
 <li>Welcome our new research assistant Zeyu Xi! -- 2022.06.13</li>
 <li>Welcome our new research assistant Jingwen Zhang!--2022.06.08</li>
