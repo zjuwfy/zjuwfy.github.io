@@ -53,7 +53,7 @@ redirect_from:
   
       #news {
       
-      height: 50px;
+      height: 20px;
        overflow-y: scroll;
     }
 </style>
