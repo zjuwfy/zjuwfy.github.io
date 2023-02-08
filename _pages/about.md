@@ -50,13 +50,13 @@ redirect_from:
   <body>
     <div class="slideshow-container">
       <div class="mySlides">
-        <img src="image1.jpg" style="width:100%">
+        <img src="images/image-alignment-150*150.jpg" style="width:100%">
       </div>
       <div class="mySlides">
-        <img src="image2.jpg" style="width:100%">
+        <img src="images/image-alignment-300*200.jpg" style="width:100%">
       </div>
       <div class="mySlides">
-        <img src="image3.jpg" style="width:100%">
+        <img src="images/image-alignment-580*300.jpg" style="width:100%">
       </div>
       <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
       <a class="next" onclick="plusSlides(1)">&#10095;</a>
