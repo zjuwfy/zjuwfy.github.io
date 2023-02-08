@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+
 <html>
   <head>
     <style>
