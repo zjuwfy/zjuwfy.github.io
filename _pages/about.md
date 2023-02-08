@@ -90,7 +90,7 @@ redirect_from:
 <h1>What we are </h1>
      <hr /> 
   <div class="slideshow-container">
-      <div class="mySlides">
+      <div class="mySlides"> 
         <img src="/images/team1.jpg" style="width:100%">
       </div>
       <div class="mySlides">
