@@ -53,7 +53,7 @@ redirect_from:
   
       .news {
       width:500px;
-      height: 20px;
+      height: 100px;
       overflow-y: auto;
     }
 </style>
@@ -79,7 +79,9 @@ redirect_from:
 <li>DMO PSF paper is out at Optics Letters! Congratulations Shuang Fu!--2022.06.08</li>
 <li> globLoc paper is out at Nature Communications! Congratulations Wei Shi!--2022.06.06</li>
   </div>
-   </div>     
+   </div>   
+##What we do 
+<p>Seeing is believing! We firmly believe that resolution determines the depth of the research. We are interested to use super-resolution microscopy to show the wonders of the microscopic world. To achieve this, we collaborate heavily with biologists and develop a range of interdisciplinary technologies including new optics theories, advanced algorithms, smart hardware design and imaging strategies for better resolution, deeper depth, and faster speed. We embrace the open science and hope that our work will promote both the advancement of science and technology.</p>
 
 
   <div class="slideshow-container">
