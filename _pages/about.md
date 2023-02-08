@@ -51,10 +51,10 @@ redirect_from:
         background-color: rgba(0,0,0,0.8);
       }
   
-      #news {
-      
+      .news {
+   
       height: 20px;
-       overflow-y: scroll;
+       overflow-y: auto;
     }
 </style>
 <body align="justify">
