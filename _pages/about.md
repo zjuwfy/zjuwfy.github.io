@@ -67,7 +67,7 @@ redirect_from:
  <img src="/images/research4.jpg" />
 </div>
 <div>
-    <p> News about the laboratory<pi>
+    <p> News about the laboratory</p>
 <div class="news">
 
 <li>Welcome our new research assistant Zeyu Xi! -- 2022.06.13</li>
